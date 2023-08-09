@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+	<hard_skills>
+		<1>testing practice</1>
+		<2>terminal Linux</2>
+		<3>github</3>
+		<4>sql</4>
+		<5>postman</5>
+		<6>json</6>
+		<7>xml</7>
+		<8>dev tools</8>
+		<9>english language</9>
+	</hard_skills>
+	<soft_skills>
+		<1>responsibility</1>
+		<2>communication<2>
+		<3>attentiveness</3>
+		<4>discipline</4>
+		<5>respect</5>
+	<soft_skills>
+</course>
